@@ -1,5 +1,5 @@
 ## MYSQL IN DOCKER CONTAINER
-Run In container:\
+Run In container:
 1. Go to docker-compose.yml path in console/terminal.
  ``` bash 
 cd <your_installation_path>/docker-mysql
