@@ -1,5 +1,5 @@
 ## MYSQL IN DOCKER CONTAINER
-Run In container:
+Run In container:__
     Go to docker-compose.yml path in console/terminal and write this command.
 
 ``` bash 
